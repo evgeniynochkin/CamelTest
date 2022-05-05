@@ -1,0 +1,14 @@
+#server:
+#  port: ${SERVICE_PORT:8081}
+#
+#camel:
+#  springboot:
+#    main-run-controller: true
+#
+#spring:
+#  datasource:
+#    url: ${DB_URL:jdbc:postgresql://127.0.0.1:5432/the_db}
+#    username: ${DB_USER:club}
+#    password: ${DB_PASSWORD:club}
+#  liquibase:
+#    change-log: classpath:liquibase\changelog.xml

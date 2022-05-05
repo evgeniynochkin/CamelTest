@@ -1,0 +1,13 @@
+{
+"user":
+    {
+    "login": "JsonLogin1",
+    "password": "JsonPassword1",
+    "userProperty":
+        {
+          "firstName": "JsonFirstName1",
+          "secondName": "JsonSecondName1",
+          "age": 21
+        }
+    }
+}
